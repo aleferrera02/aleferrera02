@@ -3,7 +3,7 @@ I am an Applied Mathematics  student at EPFL, Lausanne, with a strong interest i
 
 ## Interests
 📊 Data Science & Machine Learning  
-📚 Probability & Stochastic Processes
+📚 Probability & Stochastic Processes  
 📈 Numerical Methods & Simulations
 
 ## Connect with Me
