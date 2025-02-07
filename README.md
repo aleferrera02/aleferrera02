@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @aleferrera02
-- 👀 I’m interested in Study
-- 🌱 I’m currently learning Applied Math
-- 📫 How to reach me: Linkedin 
-- 😄 Pronouns: don't specify
+# About Me
+I am an Applied Mathematics  student at EPFL, Lausanne, with a strong interest in data analysis, probability, and optimization. Passionate about problem-solving and continuously expanding my knowledge.
 
-<!---
-aleferrera02/aleferrera02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interests
+📊 Data Science & Machine Learning  
+📚 Probability & Stochastic Processes
+📈 Numerical Methods & Simulations
+
+## Connect with Me
+📫 LinkedIn: [linkedin.com/in/alessandro-ferrera](https://linkedin.com/in/alessandro-ferrera)  
