@@ -1,5 +1,5 @@
 # About Me
-I am an Applied Mathematics  student at EPFL, Lausanne, with a strong interest in data analysis, probability, and optimization. Passionate about problem-solving and continuously expanding my knowledge.
+I am an Applied Mathematics  student at EPFL, Lausanne, with a strong interest in data analysis and probability. Passionate about problem-solving and continuously expanding my knowledge.
 
 ## Interests
 📊 Data Science & Machine Learning  
